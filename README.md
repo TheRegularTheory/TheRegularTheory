@@ -1,7 +1,1 @@
-Hey, I'm TheRegularTheory. I'm doing what ever,
-not open to colab. ᕕ( ᐛ )ᕗ
-
-<!---
-TheRegularTheory/TheRegularTheory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I make things. But only somethimes. (っ▀¯▀)つ
